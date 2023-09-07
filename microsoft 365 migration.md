@@ -3,7 +3,7 @@
 ### Set up personalise domain 
 ```
 https://admin.microsoft.com/AdminPortal/Home?issignup=true#/emailsetup
-'''
+```
 TXT record :leave this field empty
  TXT value : MS=ms20473956
  TTL : 3600
